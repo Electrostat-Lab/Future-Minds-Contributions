@@ -1,6 +1,6 @@
 # Future-Minds-Contributions
 
-This repository provides a contribution depot for the _Future Minds Initiative by [Dr. Hazem Ali](https://github.com/drhazemali)_ by picking up fine grains from the Electrostat-Lab and the Electrostatic-Sandbox SDK project managed by [Pavly G.](https://github.com/pavly-gerges).
+This repository provides a contribution depot for the **_Future Minds Initiative by [Dr. Hazem Ali](https://github.com/drhazemali)_** by picking up the fine grains from the Electrostat-Lab and the Electrostatic-Sandbox SDK project hosted and maintained by [Pavly G.](https://github.com/pavly-gerges).
 
 Essentially, the following will be the initial topics that the contribution depot will provide: 
 ## Series Title: "An introduction to Applied Computation":
@@ -20,6 +20,13 @@ Essentially, the following will be the initial topics that the contribution depo
 
 ## Appendices
 ### Appendix-A: Timetable:
+
+| Months | Topics | Videos |
+|--------|--------|--------|
+| Jan. - Feb. | ACM Guidelines - Theory of Computation | **Pending** | 
+| Mar. - Apr. | Workshop on basics of sofware engineering | **Pending** |
+| May. - Jun. | Advanced Embedded Systems? | **Pending** |
+
 ### Appendix-B: Resources:
 * The Electrostatic-Sandbox SDK for distributed simulation systems.
 * Guidelines of undergraduate cirrculum for computing by the Association for Computing Machinery.
