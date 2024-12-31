@@ -29,14 +29,17 @@ Essentially, the following will be the initial topics that the contribution depo
 | May. - Jun. | Advanced Embedded Systems? | **Pending** |
 
 ### Appendix-B: Resources:
-* The Electrostatic-Sandbox SDK for distributed simulation systems.
-* Guidelines of undergraduate cirrculum for computing by the Association for Computing Machinery.
-* NASA Coding Guidelines for safety-critical systems.
-* Google C/C++ Coding Guidelines.
-* Software Engineering Design by Carlos Otero.
-* Introduction to the theory of computation by Michael Sipser.
-* Discrete Mathematical Structures By Bernard Kolman and Rosen.
-* Switching and Finite Automata Theory By Niraj and Zvi.
-* IBM/ILE C/C++ Language Reference.
-* GNU/Linux GLibc documentation reference.
-* IEEE Xplore.
+* [The Electrostatic-Sandbox SDK for distributed simulation systems.](https://github.com/Electrostat-Lab/Electrostatic-Sandbox)
+* [Guidelines of undergraduate cirrculum for computing by the Association for Computing Machinery.](https://www.acm.org/education/curricula-recommendations)
+* [NASA Coding Guidelines for safety-critical systems](https://swehb.nasa.gov/display/7150/SWE-134+-+Safety+Critical+Software+Requirements?desktop=true&macroName=div)
+* [Google C/C++ Coding Guidelines.](https://google.github.io/styleguide/cppguide.html)
+* [Software Engineering Design by Carlos Otero.](https://www.amazon.com/Software-Engineering-Design-Practice-Applied/dp/1439851689)
+* [Introduction to the theory of computation by Michael Sipser.](https://www.amazon.com/Introduction-Theory-Computation-Sipser/dp/8131525295)
+* [Discrete Mathematical Structures By Bernard Kolman and Rosen.](https://www.amazon.in/Discrete-Mathematical-Structures-Bernard-Kolman/dp/0132078457)
+* [Switching and Finite Automata Theory By Niraj and Zvi.](https://www.amazon.com/Switching-Finite-Automata-Theory-Kohavi/dp/0521857481)
+* [Guide to Discrete Mathematics, Springer](https://link.springer.com/book/10.1007/978-3-030-81588-2)
+* [Body of Knowledge for Modeling and Simulation, Springer](https://link.springer.com/book/10.1007/978-3-031-11085-6)
+* [IBM/ILE C/C++ Language Reference.](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)
+* [GNU/Linux GLibc documentation reference.](https://sourceware.org/glibc/manual/)
+* [NASA Technical Report Server (NTRS)](https://ntrs.nasa.gov/)
+* [IEEE Xplore.](https://ieeexplore.ieee.org/Xplore/home.jsp)
