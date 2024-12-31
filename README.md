@@ -15,7 +15,7 @@ Essentially, the following will be the initial topics that the contribution depo
 
 ## Series Title: "A workshop for basics of software engineering using the Electrostatic-Sandbox SDK":
 - Guidelines: NASA and Google coding Guidelines for C/C++ and safety-critical systems.
-- Mathematics: Using the Automata Models previously described to model the software before coding it.
+- Mathematics: Using the Automata Models and the [System-Entity-Structure (SES) Framework by Pawletta et al.](https://dl.acm.org/doi/abs/10.5555/3108244.3108245), previously described, to model the software before coding it.
 - Software Building: A live workshop for understanding the building and the production lifecycle of software using CMake, Bash, and GitHub packages.
 - Software Engineering: Writing software C libraries on GNU/Linux, and writing unit tests (e.g., Automata framework, Entity-Component System Framework, Thread Models for thread controls, ...etc).
 
@@ -43,3 +43,4 @@ Essentially, the following will be the initial topics that the contribution depo
 * [GNU/Linux GLibc documentation reference.](https://sourceware.org/glibc/manual/)
 * [NASA Technical Report Server (NTRS)](https://ntrs.nasa.gov/)
 * [IEEE Xplore.](https://ieeexplore.ieee.org/Xplore/home.jsp)
+* [ACM Digital Library](https://dl.acm.org/)
