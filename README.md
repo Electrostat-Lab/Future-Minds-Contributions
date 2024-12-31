@@ -3,6 +3,13 @@
 
 This repository provides a contribution depot for the **_Future Minds Initiative by [Dr. Hazem Ali](https://github.com/drhazemali)_** by picking up the fine grains from the Electrostat-Lab and the Electrostatic-Sandbox SDK project hosted and maintained by [Pavly G.](https://github.com/pavly-gerges).
 
+> [!NOTE]
+> **Disclaimer of knowledge**: Subjects covered here are some way unique topics that are rarely approached from the
+> practical computer engineering perspective; therefore it's contemplated that this repository
+> will attain a particular target of covering these topics in an applied theoretical environment (i.e., theoretical and practical);
+> thus, software engineering and arithmetics basics in addition to knowing a programming language (preferably C/C++ or Java)
+> are prerequisites to fully absorb the knowledge that will be presented here.
+
 Essentially, the following will be the initial topics that the contribution depot will provide: 
 ## Series Title: "An introduction to Applied Computation":
 - Guidelines: An introduction to the ACM Guidelines of Computing.
