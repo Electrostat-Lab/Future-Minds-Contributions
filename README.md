@@ -42,6 +42,7 @@ Essentially, the following will be the initial topics that the contribution depo
 
 ### Appendix-B: Resources:
 * [The Electrostatic-Sandbox SDK for distributed simulation systems.](https://github.com/Electrostat-Lab/Electrostatic-Sandbox)
+* [Embedded Cybernetics for some of the complex safety-critical systems that have failed a long time ago.](https://github.com/Electrostat-Lab/Embedded-Cybernetics)
 * [Guidelines of undergraduate cirrculum for computing by the Association for Computing Machinery.](https://www.acm.org/education/curricula-recommendations)
 * [NASA Coding Guidelines for safety-critical systems](https://swehb.nasa.gov/display/7150/SWE-134+-+Safety+Critical+Software+Requirements?desktop=true&macroName=div)
 * [Google C/C++ Coding Guidelines.](https://google.github.io/styleguide/cppguide.html)
