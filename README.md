@@ -26,7 +26,7 @@ Essentially, the following will be the initial topics that the contribution depo
 - Software Building: A live workshop for understanding the building and the production lifecycle of software using CMake, Bash, and GitHub packages.
 - Software Engineering: Writing software C libraries on GNU/Linux, and writing unit tests (e.g., Automata framework, Entity-Component System Framework, Thread Models for thread controls, ...etc).
 
-## Advanced Scientific and Engineering workshops: "Complex Systems Analysis, Cyberneutics and Safety-critical systems":
+## Advanced Scientific and Engineering workshops: "Complex Systems Analysis, Cybernetics and Safety-critical systems":
 - The Therac-25 Catastrophes.
 - The Air France Flight 447 Catastrophic failure.
 - The Deepwater Horizon Catastrophic failure.
