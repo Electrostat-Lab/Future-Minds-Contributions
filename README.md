@@ -12,7 +12,7 @@ This repository provides a contribution depot for the **_Future Minds Initiative
 
 Essentially, the following will be the initial topics that the contribution depot will provide: 
 ## Series Title: "An introduction to Applied Computation":
-- Guidelines: An introduction to the ACM Guidelines of Computing.
+- [Guidelines: A curricular computational model derived from the ACM Guidelines for CS Education](https://github.com/Electrostat-Lab/Future-Minds-Contributions/blob/master/curricular-computational-model/cc-model.md)
 - Mathematics: An approach to Discrete Mathematics and Software design paradigms.
 - Theory of computation: Approaching the Theory of computation (i.e., Automata theory, Computational complexity theory, and Computability theory).
 - Theory of computation: A practical approach to the theory of computation (a coding project on the Electrostatic-Sandbox SDK).
