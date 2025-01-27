@@ -1,7 +1,7 @@
 # Curricular Computational Model
-> Authors: [pavl-g](https://github.com/pavly-gerges)
-> License: [BSD-3 Clause License](https://github.com/Electrostat-Lab/Future-Minds-Contributions/blob/master/LICENSE)
-> Keywords: Guidelines - CS Roadmap - ACM - IEEE - Education - Knowledge Model - Knowledge Areas - Knowledge Units.
+> Authors: [pavl-g](https://github.com/pavly-gerges) </br>
+> License: [BSD-3 Clause License](https://github.com/Electrostat-Lab/Future-Minds-Contributions/blob/master/LICENSE) </br>
+> Keywords: Guidelines - CS Roadmap - ACM - IEEE - Education - Knowledge Model - Knowledge Areas - Knowledge Units. </br>
 
 ## Preface and vision:
 Essentially, the _cirrcular computational model_ is a community-driven intuition from the _Guidelines for Computer Science Education_ published by the _Association for Computing Machinery (ACM)_ on the _ACM Digital Library (ACM-DL)_ as a result of a joint work force among _ACM_, _IEEE-CS community_, and _the Association for the Advancement of Artificial Intelligence (AAAI)_. The intuition behind these huge organizations task force is to provide a **knowledge model (KM)** that displays a strong intermix among multiple disciplines by introducing **knowledge areas (KA)** that represents components composed of **knowledge units (KU)** and **learning outcomes**.
