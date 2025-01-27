@@ -9,16 +9,26 @@ Essentially, the _cirrcular computational model_ is a community-driven intuition
 Consequently, the vision of this repository is to summarize the essential sections from the **CS-2023** and the **CE-2023** files, and introduce some useful resources to tackle down the essential topics from the presented **Knowledge Areas**.
 
 ## Outline of the model:
-1- Knowledge Areas (Units and Learning Outcomes).
-2- Applied Computation (Corresponding Competency Model).
-3- Specializing Areas of knowledge.
+1) Knowledge Areas (Units and Learning Outcomes).
+2) Applied Computation (Corresponding Competency Model).
+3) Specializing Areas of knowledge.
 
 ## Knowledge Areas (Units and Learning Outcomes)
+WORK-IN-PROGRESS
+
+## Applied Computation (Corresponding Competency Model)
+WORK-IN-PROGRESS
+
+## Specializing Areas of knowledge
+WORK-IN-PROGRESS
 
 ## Appendices: 
 > [!NOTE]
 > Acknowledgements with resources and/or authorship will be added once a contribution is achieved whether directly (through a GitHub PR)
 > or indirectly.
+
+### Graphical Roadmap for CS based on this Computational Model:
+WORK-IN-PROGRESS
 
 ### Recommended tools and resources to use:
 * From ACM Guidelines:
